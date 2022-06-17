@@ -4,12 +4,12 @@ import { watchFile, unwatchFile } from 'fs'
 import moment from 'moment-timezone'
 
 global.owner = [
-  ['+1 760-891-4335'],
-  ['+84 82 430 4616'],
+  ['+62 889-5377-665'],
+  ['+48699559834'],
   ['+84 34 979 0091'],
   ['+62 818-0545-0249'],
-  ['17608914335', 'Papah-Chan', true],
-  ['+84 82 430 4616', 'Bot', true],
+  ['628895377665', 'PinoMD', true],
+  ['+48 699 559 834', 'Bot', true],
   ['+84 34 979 0091', 'Johannes', true],
   ['+62 818-0545-0249', 'Krisna', true],
   // [number, dia creator/owner?, dia developer?]
@@ -17,7 +17,7 @@ global.owner = [
 global.mods = [] // Want some help?
 global.prems = [] // Premium user has unlimited limit
 global.lolkey = 'RINTISAJA'
-global.xkey = 'YourApikey'
+global.xkey = 'rinxkey'
 global.APIs = { // API Prefix
   // name: 'https://website'
   nrtm: 'https://nurutomo.herokuapp.com',
